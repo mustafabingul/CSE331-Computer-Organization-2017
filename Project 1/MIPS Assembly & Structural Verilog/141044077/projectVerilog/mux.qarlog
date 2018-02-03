@@ -1,0 +1,49 @@
+Quartus II Archive log --	C:/projectVerilog/mux.qarlog
+
+Archive:	C:/projectVerilog/mux.qar
+Date:		Fri Oct 27 14:18:56 2017
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.1/project1/_5bit_adder.v
+C:/altera/13.1/project1/_5bit_adder_testbench.v
+C:/altera/13.1/project1/_5bit_and.v
+C:/altera/13.1/project1/_5bit_and_testbench.v
+C:/altera/13.1/project1/_5bit_or.v
+C:/altera/13.1/project1/_5bit_or_testbench.v
+C:/altera/13.1/project1/_5bit_xor.v
+C:/altera/13.1/project1/_5bit_xor_testbench.v
+C:/altera/13.1/project1/_for_mux.v
+C:/altera/13.1/project1/_for_mux_testbench.v
+C:/altera/13.1/project1/_mux.v
+C:/altera/13.1/project1/_mux_testbench.v
+C:/altera/13.1/project1/db/project1Mux.cmp.hdb
+C:/altera/13.1/project1/db/project1Mux.db_info
+C:/altera/13.1/project1/full_adder.v
+C:/altera/13.1/project1/full_adder_testbench.v
+C:/altera/13.1/project1/half_adder.v
+C:/altera/13.1/project1/half_adder_testbench.v
+C:/altera/13.1/project1/incremental_db/compiled_partitions/project1Mux.db_info
+C:/altera/13.1/project1/likeALU.v
+C:/altera/13.1/project1/likeALU_fpga_DEMO.v
+C:/altera/13.1/project1/likeALU_fpga_DEMO_d.v
+C:/altera/13.1/project1/likeALU_testbench.v
+C:/altera/13.1/project1/project1Mux.qpf
+C:/altera/13.1/project1/project1Mux.qsf
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Oct 27 14:19:15 2017
+Source archive file:	C:/projectVerilog/mux.qar
+Archive was extracted into	C:/projectVerilog/mux_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Fri Oct 27 14:19:47 2017
+Source archive file:	C:/projectVerilog/mux.qar
+Archive was extracted into	C:/projectVerilog/mux_restored/
+		 - successfully.

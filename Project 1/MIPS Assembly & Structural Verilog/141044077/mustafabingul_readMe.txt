@@ -1,0 +1,1 @@
+Hocam, assembly kodunda Qtspim sýkýntý çýkarýyor yorum satýrlarýna. bu sebepten ötürü yorumlu ve yormsuz olarak iki .asm dosyasý yaptým. Kolay gelsin, iyi çalýþmalar.
